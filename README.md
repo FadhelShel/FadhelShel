@@ -1,5 +1,4 @@
 <h1>👋 Hello there, I’m Fadhel Shel</h1>
-<div><img src=""</div>
 <div>
 <h3>About Me :</h3>
 <ul>
